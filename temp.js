@@ -1,2 +1,1 @@
-const A = sfsddsf;
-sdfsdfdsfsdfdsf
+const A = asdasd;
